@@ -92,7 +92,7 @@ Segment the data by Category, Region, Ship Mode, and Customer Segment for deeper
 ![Dashboard Overview]([images/Dashboard_Overview.png](https://github.com/Data-Aqeel/Superstore-Sales-Dashboard/blob/main/Snapshot%20of%20main%20Dashboard.png))  
 
 ### Time Series Forecast View  
-![Forecasting View](images/Forecasting_View.png)  
+![Forecasting View]([images/Forecasting_View.png](https://github.com/Data-Aqeel/Superstore-Sales-Dashboard/blob/main/Snapshot%20of%20Time%20Series%20Analysis.png))
 
 ---
 
